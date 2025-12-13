@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6519632893318683942}
   - component: {fileID: 7459818176797758261}
   - component: {fileID: 3235786808851326242}
-  - component: {fileID: 4460647993129900741}
+  - component: {fileID: 8230070131334134082}
   m_Layer: 0
   m_Name: Obi 1
   m_TagString: Obi
@@ -148,6 +148,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Obi","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"border","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &3235786808851326242
@@ -166,7 +167,7 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 29be32c1441368547990a81923c63946, type: 2}
---- !u!50 &4460647993129900741
+--- !u!50 &8230070131334134082
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0

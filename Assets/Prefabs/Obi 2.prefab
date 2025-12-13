@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4619922119648924664}
   - component: {fileID: 6717692269201641650}
   - component: {fileID: 4792964445500745599}
-  - component: {fileID: 6259286207618914957}
+  - component: {fileID: -8375411082555294626}
   m_Layer: 0
   m_Name: Obi 2
   m_TagString: Obi
@@ -166,7 +166,7 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 4711b6fcb4bd765458480a72536ed7af, type: 2}
---- !u!50 &6259286207618914957
+--- !u!50 &-8375411082555294626
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
